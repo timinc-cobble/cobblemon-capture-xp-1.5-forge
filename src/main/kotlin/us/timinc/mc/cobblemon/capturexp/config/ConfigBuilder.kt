@@ -1,4 +1,4 @@
-package us.timinc.mc.config
+package us.timinc.mc.cobblemon.capturexp.config
 
 import com.google.gson.GsonBuilder
 import java.io.File
