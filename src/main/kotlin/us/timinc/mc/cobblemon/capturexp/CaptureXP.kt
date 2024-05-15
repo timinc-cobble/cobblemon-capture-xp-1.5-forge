@@ -12,7 +12,7 @@ import net.minecraftforge.eventbus.api.SubscribeEvent
 import net.minecraftforge.fml.common.Mod
 import net.minecraftforge.fml.common.Mod.EventBusSubscriber
 import us.timinc.mc.cobblemon.capturexp.config.CaptureXPConfig
-import us.timinc.mc.config.ConfigBuilder
+import us.timinc.mc.cobblemon.capturexp.config.ConfigBuilder
 
 @Mod(CaptureXP.MOD_ID)
 object CaptureXP {
